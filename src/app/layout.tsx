@@ -11,8 +11,8 @@ import { Raleway } from "next/font/google";
 
 
 export const metadata: Metadata = {
-  title: 'SiJe | Professional Construction and Building Services',
-  description: 'SiJe provides exceptional construction and custom building services for homeowners. Quality craftsmanship and reliable service.',
+  title: 'Hello bro',
+  description: 'Uno dos',
   openGraph: {
     "title": "SiJe Construction",
     "description": "Custom building and residential construction.",
